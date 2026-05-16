@@ -43,6 +43,14 @@ The software provides:
 - Reflection analysis due to impedance mismatch
 - CSV export of measurement data
 
+
+## Research Paper
+
+Full paper available on Zenodo:
+
+https://zenodo.org/records/17100248
+
+
 ## Author
 
 Rahul Das  
