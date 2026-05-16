@@ -44,7 +44,7 @@ The software provides:
 - CSV export of measurement data
 
 
-## Research Publication
+## Research Pre-Print
 
 The complete research manuscript is publicly available on Zenodo:
 
