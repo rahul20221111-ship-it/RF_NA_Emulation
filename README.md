@@ -44,14 +44,19 @@ The software provides:
 - CSV export of measurement data
 
 
-## Research Paper
+## Research Publication
 
-Full paper available on Zenodo:
+The complete research manuscript is publicly available on Zenodo:
 
 https://zenodo.org/records/17100248
 
 
+## Citation
+
+If this work contributes to your research or academic work, please consider citing the repository and associated manuscript appropriately.
+
+
 ## Author
 
-Rahul Das  
-IISER Tirupati
+**Rahul Das**  
+Indian Institute of Science Education and Research (IISER) Tirupati
